@@ -25,7 +25,7 @@ python run.py -u '手机号' -p '密码'
 1. 下载[Releases](https://github.com/Doradx/imxingzhe-gpx-exporter/releases)中的`xingzhe.exe`文件
 2. 运行
 ```bash
-xingzhe.exe -u '手机号' -p '密码'
+xingzhe.exe -u "手机号" -p "密码"
 ```
 
 # 作者
